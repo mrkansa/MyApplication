@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="edit_message">Enter a message</string>
+    <string name="edit_message">Enter a message - testing with git</string>
     <string name="button_send">Send</string>
 </resources>
